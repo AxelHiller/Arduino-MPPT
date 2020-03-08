@@ -1,0 +1,2 @@
+I want to share my ltspice simulations,
+just learning how to use github
