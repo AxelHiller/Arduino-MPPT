@@ -1,0 +1,35 @@
+You find ltspice here:
+
+https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
+
+Start LTSpice,
+
+In the menu 'Window' select Tile Horizontally
+Click simulate/run, or the running icon
+=> the .raw window appears.
+
+In the .asc window move the cursor to the gate of M3
+=> a red probe appeares.
+click on the wire
+=> the signal of GM3 is shown.
+
+right click somewhere in the .asc window,
+select 'Set Probe Reference'
+=> a black probe appeares
+move it to SM2, click there
+=> the black probe stays there,
+now move the red probe to GM2,
+=> you see the signal on G2.
+
+right click somewhere in the .asc window,
+select 'Set Probe Reference'
+=> a black probe appeares
+move it to SM1, click there
+=> the black probe stays there,
+now move the red probe to GM1,
+=> you see the signal on G2.
+
+
+
+
+
